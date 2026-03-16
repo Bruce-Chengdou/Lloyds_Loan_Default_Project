@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project analyses historical loan data to understand the characteristics of borrowers who default on their loans and builds a predictive model to estimate loan default risk.
+This project analyses historical loan data from Lloyds Banking Group to understand the characteristics and financial behaviour of borrowers who default on their loans, and to estimate the probability of default (PD) for future lending decisions.
 
-Using borrower financial information, loan attributes and credit behaviour indicators, a logistic regression model was developed to identify key drivers of default.
+A logistic regression model is developed using borrower financial information, loan attributes and credit behaviour indicators to estimate default risk and identify the key drivers of loan default.
 
 ---
 
@@ -91,8 +91,8 @@ Lloyds_Loan_Default_Project
 
 ## Tools
 Python
-- pandas
-- Numpy
-- scikit-learn
-- matplotlib
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
 
