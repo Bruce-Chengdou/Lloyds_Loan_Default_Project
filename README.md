@@ -1,4 +1,4 @@
-# Lloyds Banking Group – Loan Default Risk Analysis
+# Lloyds Banking Group - Loan Default Risk Analysis
 
 ## Project Overview
 
@@ -27,7 +27,7 @@ Model performance:
 
 Top features associated with higher loan default risk.
 
-![Top Risk Factors](outputs/TOP15_Risk_Factors.png)
+![Top Risk Factors](outputs/Key_Risk_Factors_of_Loan_Default.png)
 
 The model suggests that higher **interest rates**, longer **loan terms**, larger **monthly installments**, and more frequent **credit inquiries** are associated with increased default risk.
 
@@ -90,10 +90,9 @@ Lloyds_Loan_Default_Project
 ---
 
 ## Tools
-
-- Python
+Python
 - pandas
+- Numpy
 - scikit-learn
 - matplotlib
-- Jupyter Notebook
 
